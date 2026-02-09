@@ -1,0 +1,3 @@
+2026-02-08 21:22:12.406 | INFO     | app.routes.auth:login:15 - Login attempt for username: SID
+2026-02-08 21:22:12.407 | INFO     | app.routes.auth:login:19 - Student login successful: SID
+2026-02-08 21:23:48.256 | INFO     | app.routes.tickets:create_ticket:36 - Ticket created | ticket_id=1
